@@ -1,8 +1,8 @@
 # Exercicios java para iniciantes vol1
 
-* @author Anísio Marrime
-* http://www.anisiomarrime.com
-* itans.marrime@gmail.com
+@author Anísio Marrime
+http://www.anisiomarrime.com
+itans.marrime@gmail.com
  
 Compartilho com vocês alguns exercícios em java resolvidos.
 
